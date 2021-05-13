@@ -1,0 +1,424 @@
+RED: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+ORANGE: Dangerous Angle Detected
+	DOWNHILL
+ORANGE: Object On Track Ahead
+	APPLY BRAKES
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:03:23 2021
+Current speed: 108.569
+Current gyroscope: -1.570
+Current rpm: 17.845
+Current distance to crossing: 1.809
+Gate is open?: true
+Time until crossing open: 0
+Current proximity to object: 0.838
+Current acceleration: -2.917
+---------------------------------------
+
+RED: Dangerous Angle Detected
+	UPHILL
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+ORANGE: Object On Track Ahead
+	APPLY BRAKES
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:03:28 2021
+Current speed: 82.802
+Current gyroscope: 2.334
+Current rpm: 22.575
+Current distance to crossing: 1.814
+Gate is open?: true
+Time until crossing open: 0
+Current proximity to object: 0.826
+Current acceleration: 1.316
+---------------------------------------
+
+GREEN: Gate Crossing Ahead
+	Blow Horn for 15 seconds
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+ORANGE: Gate Crossing Ahead
+	GATE OPEN
+ORANGE: Dangerous Angle Detected
+	UPHILL
+ORANGE: Object On Track Ahead
+	APPLY BRAKES
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:03:33 2021
+Current speed: 83.951
+Current gyroscope: 1.948
+Current rpm: 19.872
+Current distance to crossing: 0.030
+Gate is open?: false
+Time until crossing open: 38
+Current proximity to object: 0.821
+Current acceleration: 2.172
+---------------------------------------
+
+RED: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:05:37 2021
+Current speed: 82.368
+Current gyroscope: -0.214
+Current rpm: 17.414
+Current distance to crossing: 3.099
+Gate is open?: false
+Time until crossing open: 41
+Current proximity to object: 15.893
+Current acceleration: 3.213
+---------------------------------------
+
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:05:42 2021
+Current speed: 80.335
+Current gyroscope: 0.070
+Current rpm: 17.273
+Current distance to crossing: 15.175
+Gate is open?: true
+Time until crossing open: 0
+Current proximity to object: 31.454
+Current acceleration: 0.066
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:05:48 2021
+Current speed: 82.228
+Current gyroscope: 0.027
+Current rpm: 17.754
+Current distance to crossing: 24.217
+Gate is open?: true
+Time until crossing open: 0
+Current proximity to object: 9.272
+Current acceleration: 1.591
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:05:53 2021
+Current speed: 83.423
+Current gyroscope: 0.029
+Current rpm: 17.064
+Current distance to crossing: 44.147
+Gate is open?: false
+Time until crossing open: 36
+Current proximity to object: 23.418
+Current acceleration: 4.148
+---------------------------------------
+
+GREEN: Gate Crossing Ahead
+	Blow Horn for 15 seconds
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+ORANGE: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:05:58 2021
+Current speed: 83.345
+Current gyroscope: 0.140
+Current rpm: 17.477
+Current distance to crossing: 0.345
+Gate is open?: false
+Time until crossing open: 86
+Current proximity to object: 28.300
+Current acceleration: -1.273
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:03 2021
+Current speed: 81.225
+Current gyroscope: -0.214
+Current rpm: 17.245
+Current distance to crossing: 14.312
+Gate is open?: false
+Time until crossing open: 63
+Current proximity to object: 16.639
+Current acceleration: -2.736
+---------------------------------------
+
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:08 2021
+Current speed: 81.683
+Current gyroscope: 0.216
+Current rpm: 17.367
+Current distance to crossing: 10.499
+Gate is open?: true
+Time until crossing open: 0
+Current proximity to object: 36.427
+Current acceleration: 4.098
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:18 2021
+Current speed: 84.258
+Current gyroscope: 0.188
+Current rpm: 17.538
+Current distance to crossing: 31.722
+Gate is open?: false
+Time until crossing open: 96
+Current proximity to object: 15.388
+Current acceleration: -0.889
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:23 2021
+Current speed: 82.850
+Current gyroscope: 0.079
+Current rpm: 17.110
+Current distance to crossing: 42.645
+Gate is open?: false
+Time until crossing open: 34
+Current proximity to object: 21.421
+Current acceleration: 3.520
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:28 2021
+Current speed: 80.930
+Current gyroscope: -0.152
+Current rpm: 17.979
+Current distance to crossing: 39.845
+Gate is open?: false
+Time until crossing open: 100
+Current proximity to object: 44.567
+Current acceleration: -3.630
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:33 2021
+Current speed: 82.927
+Current gyroscope: -0.178
+Current rpm: 17.566
+Current distance to crossing: 23.708
+Gate is open?: false
+Time until crossing open: 13
+Current proximity to object: 40.890
+Current acceleration: -1.016
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:43 2021
+Current speed: 80.115
+Current gyroscope: -0.007
+Current rpm: 17.372
+Current distance to crossing: 24.726
+Gate is open?: false
+Time until crossing open: 96
+Current proximity to object: 45.499
+Current acceleration: -3.723
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+YELLOW: Object On Track Ahead
+	APPLY BRAKES
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:48 2021
+Current speed: 84.210
+Current gyroscope: 0.145
+Current rpm: 17.361
+Current distance to crossing: 14.217
+Gate is open?: false
+Time until crossing open: 34
+Current proximity to object: 1.333
+Current acceleration: 4.063
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:53 2021
+Current speed: 82.660
+Current gyroscope: 0.043
+Current rpm: 18.272
+Current distance to crossing: 30.220
+Gate is open?: false
+Time until crossing open: 3
+Current proximity to object: 33.014
+Current acceleration: 4.357
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:06:58 2021
+Current speed: 84.731
+Current gyroscope: 0.209
+Current rpm: 18.228
+Current distance to crossing: 17.046
+Gate is open?: false
+Time until crossing open: 45
+Current proximity to object: 38.934
+Current acceleration: -1.774
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:07:03 2021
+Current speed: 83.838
+Current gyroscope: 0.300
+Current rpm: 17.313
+Current distance to crossing: 48.787
+Gate is open?: false
+Time until crossing open: 94
+Current proximity to object: 17.089
+Current acceleration: 1.075
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:07:08 2021
+Current speed: 84.574
+Current gyroscope: -0.252
+Current rpm: 17.385
+Current distance to crossing: 10.409
+Gate is open?: false
+Time until crossing open: 8
+Current proximity to object: 34.743
+Current acceleration: 2.933
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST INCREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:07:13 2021
+Current speed: 81.274
+Current gyroscope: 0.285
+Current rpm: 17.151
+Current distance to crossing: 14.302
+Gate is open?: false
+Time until crossing open: 8
+Current proximity to object: 9.109
+Current acceleration: 3.563
+---------------------------------------
+
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Mon May  3 23:07:18 2021
+Current speed: 84.460
+Current gyroscope: 0.029
+Current rpm: 18.185
+Current distance to crossing: 6.851
+Gate is open?: false
+Time until crossing open: 87
+Current proximity to object: 14.327
+Current acceleration: 3.422
+---------------------------------------
+
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Tue May  4 21:00:39 2021
+Current speed: 80.630
+Current gyroscope: 0.149
+Current rpm: 17.543
+Current distance to crossing: 20.140
+Gate is open?: false
+Time until crossing open: 0
+Current proximity to object: 5.687
+Current acceleration: -2.380
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Tue May  4 21:00:45 2021
+Current speed: 80.341
+Current gyroscope: 0.181
+Current rpm: 17.629
+Current distance to crossing: 12.241
+Gate is open?: false
+Time until crossing open: 8
+Current proximity to object: 8.303
+Current acceleration: -3.861
+---------------------------------------
+
+RED: Slippage Detected
+	SUGGEST DECREASE SPEED
+YELLOW: Gate Crossing Ahead
+	GATE OPEN
+YELLOW: Dangerous Speed Detected
+	TOO FAST; SLOW DOWN
+--Raw Sensor Data for Above Warnings--
+Current time: Tue May  4 21:00:50 2021
+Current speed: 80.955
+Current gyroscope: 0.106
+Current rpm: 16.907
+Current distance to crossing: 17.221
+Gate is open?: true
+Time until crossing open: 0
+Current proximity to object: 30.849
+Current acceleration: -3.122
+---------------------------------------
+
